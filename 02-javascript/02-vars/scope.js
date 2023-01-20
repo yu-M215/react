@@ -1,8 +1,8 @@
-var n=0;
+const n=0;
 
 if (true) {
-  var n = 50;
-  var m = 100;
+  const n = 50;
+  const m = 100;
   console.log(n);
 }
 
